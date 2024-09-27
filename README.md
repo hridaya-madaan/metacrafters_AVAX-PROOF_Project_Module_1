@@ -50,4 +50,5 @@ To connect your subnet to metamask, you will need to :
 
 
 ## Project By
-- Anshuman Roshan
+- HRIDAYA MADAAN
+phri2898@gmail.com 
